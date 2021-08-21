@@ -1,0 +1,19 @@
+HoverBoard: JackalVehicle_Athena_C
+Helicopter: HoagieVehicle_C
+Bots/Ai's: PlayerPawn_Athena_Phoebe_C
+Player Dying: TeleportationDrone_C
+WeakSpot: WeakSpot_C
+LLama: AthenaSupplyDrop_Llama
+ShoppingCart: ShoppingCartVehicleSK_C
+Mech: TestMechVehicle_C
+GolfCart: GolfCartVehicleSK_C
+Plane: FerretVehicle_C
+TaxiCab: Valet_TaxiCab_Vehicle_C
+BasicCar: Valet_BasicCar_Vehicle_C
+BigRig: Valet_BigRig_Vehicle_C
+Ferrari: Foray_Vehicle_C
+UFO: Nevada_Vehicle_V2_C
+Nigga Being Abducted: Nevada_TractorBeamVictim_Vehicle_C
+SportsCar: Valet_SportsCar_Vehicle_C
+BasicTruck: Valet_BasicTruck_Vehicle_C
+Boat: MeatballVehicle_L
